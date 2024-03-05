@@ -15,3 +15,8 @@ Encorajamos a colaboração e estamos sempre abertos a contribuições que enriq
 ## 🌟 Junte-se a Nós
 
 Explore, aprenda e contribua. Juntos, podemos construir um futuro mais inovador e conectado 🌐. Para mais informações, visite nossa página de boas-vindas ou entre em contato através do nosso e-mail institucional 📧.
+
+
+
+*Versão criada pelo prof Johnatan Oliveira* 
+
